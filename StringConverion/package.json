@@ -1,0 +1,18 @@
+{
+  "name": "lowertoupper",
+  "version": "1.0.0",
+  "description": "this is package to covert your file data into uppercase. :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uppercase",
+    "filesystem",
+    "lowercase",
+    "conversion"
+  ],
+  "author": "mike",
+  "license": "MIT"
+ 
+}
